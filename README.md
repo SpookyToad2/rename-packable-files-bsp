@@ -1,15 +1,15 @@
 # Rename Packable Files
 
 What does it do? Renames files that start/end with:
-_particles.txt
-_level_sounds.txt
-_russian.txt
-_english.txt
-_finnish.txt
-_german.txt
-.nav
-soundscapes_
-menu_photos_
+* _particles.txt
+* _level_sounds.txt
+* _russian.txt
+* _english.txt
+* _finnish.txt
+* _german.txt
+* .nav
+* soundscapes_
+* menu_photos_
 
 # Usage
 
