@@ -13,6 +13,8 @@ What does it do? Renames files that start/end with:
 
 # Usage
 
+Video Tutorial: https://youtu.be/ToFTKZA54ew
+
 Why this is a thing? When you have a map with 6+ files to rename while packing, it becomes really painful to rename them, especially vgui textures.
 
 * check config.txt. You should write your OWN path to tf folder. If not, it will give an error.
